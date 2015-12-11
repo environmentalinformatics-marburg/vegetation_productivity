@@ -1,0 +1,86 @@
+% Encoding: ISO-8859-1
+
+
+@Article{Appelhans2015b,
+  Title                    = {remote: Empirical Orthogonal Teleconnections in R},
+  Author                   = {Appelhans, Tim and Detsch, Florian and Nauss, Thomas},
+  Journal                  = {Journal of Statistical Software},
+  Year                     = {2015},
+  Number                   = {10},
+  Pages                    = {1--19},
+  Volume                   = {65},
+  DOI                      = {10.18637/jss.v065.i10},
+  File                     = {:Appelhans, Detsch, Nauss - accepted.pdf:PDF},
+  Keywords                 = {teleconnection analysis, spatial data mining, raster data, R, climate science},
+  Owner                    = {fdetsch},
+  Timestamp                = {2015.04.08}
+}
+
+@Article{Funk2015,
+  Title                    = {The climate hazards infrared precipitation with stations -- a new environmental record for monitoring extremes},
+  Author                   = {Funk, Chris and Peterson, Pete and Landsfeld, Martin and Pedreros, Diego and Verdin, James and Shukla, Shraddhanand and Husak, Gregory and Rowland, James and Harrison, Laura and Hoell, Andrew and Michaelsen, Joel},
+  Journal                  = {Scientific Data},
+  Year                     = {2015},
+  Pages                    = {150066},
+  Volume                   = {2},
+  DOI                      = {10.1038/sdata.2015.66},
+  File                     = {:Funk et al.- 2015.pdf:PDF},
+  Owner                    = {fdetsch},
+  Timestamp                = {2015.12.11},
+  URL                      = {http://www.nature.com/articles/sdata201566}
+}
+
+@Article{Landmann2014,
+  Title                    = {Spatial analysis of human-induced vegetation productivity decline over eastern Africa using a decade (2001–-2011) of medium resolution MODIS time-series data},
+  Author                   = {Landmann, Tobias and Dubovyk, Olena},
+  Journal                  = {International Journal of Applied Earth Observation and Geoinformation},
+  Year                     = {2014},
+  Pages                    = {76--82},
+  Volume                   = {33},
+  DOI                      = {http://dx.doi.org/10.1016/j.jag.2014.04.020},
+  File                     = {:Landmann, Dubovyk - 2014.pdf:PDF},
+  Keywords                 = {Land degradation, NDVI, RUE, Trend analysis, Land use change, Google Earth},
+  Owner                    = {fdetsch},
+  Timestamp                = {2015.03.26},
+  URL                      = {http://www.sciencedirect.com/science/article/pii/S030324341400110X#}
+}
+
+@Article{Miller1966,
+  Title                    = {'Significant' and 'Highly Significant'},
+  Author                   = {Miller, David A},
+  Journal                  = {Nature},
+  Year                     = {1966},
+  Pages                    = {1190},
+  Volume                   = {210},
+  DOI                      = {10.1038/2101190a0},
+  File                     = {:Miller - 1966.pdf:PDF},
+  Owner                    = {fdetsch},
+  Timestamp                = {2015.11.17},
+  URL                      = {http://www.nature.com/nature/journal/v210/n5041/abs/2101190a0.html}
+}
+
+@Unpublished{Otte2015,
+  Title                    = {Decadal trends and interannual variability of atmospheric parameters as observed from local and remote sensing time series at Mt. Kilimanjaro, Tanzania},
+  Author                   = {Otte, Insa and Detsch, Florian and Mwangomo, Ephraim and Nauss, Thomas and Appelhans, Tim},
+  Note                     = {\textit{Clim. Dyn.} under review},
+  Year                     = {2015},
+  Journal                  = {Climate Dynamics},
+  Owner                    = {tnauss},
+  Timestamp                = {2014.10.08}
+}
+
+@Article{Prince1998a,
+  Title                    = {Evidence from rain-use efficiencies does not indicate extensive Sahelian desertification},
+  Author                   = {Prince, S. D. and Brown de Colstoun, E. and Kravitz, L. L.},
+  Journal                  = {Global Change Biology},
+  Year                     = {1998},
+  Pages                    = {359--374},
+  Volume                   = {4},
+  DOI                      = {10.1046/j.1365-2486.1998.00158.x},
+  File                     = {:Prince, Brown de Colstoun, Kravitz - 1998.pdf:PDF},
+  Keywords                 = {AVHRR, degradation, desertification, NDVI, net production, rain use efficiency, rainfall, Sahel},
+  Owner                    = {fdetsch},
+  Timestamp                = {2015.12.11},
+  URL                      = {http://onlinelibrary.wiley.com/doi/10.1046/j.1365-2486.1998.00158.x/abstract}
+}
+

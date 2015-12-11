@@ -1,0 +1,52 @@
+\begin{thebibliography}{-------}
+\providecommand{\natexlab}[1]{#1}
+
+\bibitem[Landmann and Dubovyk(2014)]{Landmann2014}
+Landmann, T.; Dubovyk, O.
+\newblock Spatial analysis of human-induced vegetation productivity decline
+  over eastern Africa using a decade (2001–-2011) of medium resolution MODIS
+  time-series data.
+\newblock {\em International Journal of Applied Earth Observation and
+  Geoinformation} {\bf 2014}, {\em 33},~76--82.
+
+\bibitem[Prince \em{et~al.}(1998)Prince, Brown~de Colstoun, and
+  Kravitz]{Prince1998a}
+Prince, S.D.; Brown~de Colstoun, E.; Kravitz, L.L.
+\newblock Evidence from rain-use efficiencies does not indicate extensive
+  Sahelian desertification.
+\newblock {\em Global Change Biology} {\bf 1998}, {\em 4},~359--374.
+
+\bibitem[Tucker(1979)]{Tucker1979}
+Tucker, C.J.
+\newblock Red and photographic infrared linear combinations for monitoring
+  vegetation.
+\newblock {\em Remote Sensing of Environment} {\bf 1979}, {\em 8},~127--150.
+
+\bibitem[Otte \em{et~al.}(2015)Otte, Detsch, Mwangomo, Nauss, and
+  Appelhans]{Otte2015}
+Otte, I.; Detsch, F.; Mwangomo, E.; Nauss, T.; Appelhans, T.
+\newblock Decadal trends and interannual variability of atmospheric parameters
+  as observed from local and remote sensing time series at Mt. Kilimanjaro,
+  Tanzania.
+\newblock \textit{Clim. Dyn.} under review.
+
+\bibitem[Appelhans \em{et~al.}(2015)Appelhans, Detsch, and
+  Nauss]{Appelhans2015b}
+Appelhans, T.; Detsch, F.; Nauss, T.
+\newblock remote: Empirical Orthogonal Teleconnections in R.
+\newblock {\em Journal of Statistical Software} {\bf 2015}, {\em 65},~1--19.
+
+\bibitem[Miller(1966)]{Miller1966}
+Miller, D.A.
+\newblock 'Significant' and 'Highly Significant'.
+\newblock {\em Nature} {\bf 1966}, {\em 210},~1190.
+
+\bibitem[Funk \em{et~al.}(2015)Funk, Peterson, Landsfeld, Pedreros, Verdin,
+  Shukla, Husak, Rowland, Harrison, Hoell, and Michaelsen]{Funk2015}
+Funk, C.; Peterson, P.; Landsfeld, M.; Pedreros, D.; Verdin, J.; Shukla, S.;
+  Husak, G.; Rowland, J.; Harrison, L.; Hoell, A.; Michaelsen, J.
+\newblock The climate hazards infrared precipitation with stations -- a new
+  environmental record for monitoring extremes.
+\newblock {\em Scientific Data} {\bf 2015}, {\em 2},~150066.
+
+\end{thebibliography}
