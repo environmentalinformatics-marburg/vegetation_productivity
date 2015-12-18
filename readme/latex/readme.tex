@@ -25,10 +25,12 @@ where $P_n$ and $P_r$ are monthly estimates of net primary productivity (\textit
 \textit{CRD} = \sum \limits_{i=1}^n \textit{RUE}_{y_{i+1}} - \textit{RUE}_{y_{i}}
 \end{equation}
 
-where $\textit{RUE}_{y_{i}}$ means the value of RUE in year $y_{i}$ as derived from Equation \ref{rue}, and $n$ is the number of years under investigation. Accordingly, the processing chain used to derive area-wide CRD over the Kilimanjaro region, Tanzania, includes the following work steps:
+where $\textit{RUE}_{y_{i}}$ means the value of RUE in year $y_{i}$ as derived from Equation \ref{rue}, and $n$ is the number of years under investigation. 
+
+Accordingly, the processing chain used to derive area-wide CRD over the Kilimanjaro region, Tanzania, includes the following work steps:
 
 \begin{itemize}
-\item Monthly maximum value composites (MVC) of the Normalized Difference Vegetation Index \citep[NDVI;][]{Tucker1979} are created from the 16-day products originating from the Moderate Resolution Imaging Spectroradiometers (MODIS) aboard NASA's Terra and Aqua satellites. These are 'deseasoned', i.e. intra-annual seasonal fluctuations originating from the bimodal annual rainfall distribution \citep{Otte2015} are removed by subtracting the long-term monthly means from the respective raw values \citep{Appelhans2015b}, and subsequently used to calculate 'conclusive' \cite[$p<0.001$;][]{Miller1966} long-term trends (Figure 1).
+\item Monthly maximum value composites (MVC) of the Normalized Difference Vegetation Index (NDVI; \citep{Tucker1979}) are created from the 16-day products originating from the Moderate Resolution Imaging Spectroradiometers (MODIS) aboard NASA's Terra and Aqua satellites. These are 'deseasoned', i.e. intra-annual seasonal fluctuations originating from the bimodal annual rainfall distribution \citep{Otte2015} are removed by subtracting the long-term monthly means from the respective raw values \citep{Appelhans2015b}, and subsequently used to calculate 'conclusive' ($p<0.001$; \citep{Miller1966}) long-term trends (Figure 1).
 
 \item Monthly $P_n$ is derived from fitting pixel-based linear models to annual MODIS estimates of NDVI and NPP. The models are subsequently used to predict monthly NPP on the basis of monthly raw NDVI.
 
